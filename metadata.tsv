@@ -1,0 +1,9 @@
+sample-id	Participant_ID	diagnosis	biopsy_location	sex	age
+206701	H4006	CD	Rectum	Male	8
+206695	H4001	CD	Rectum	Male	14
+206700	H4004	CD	Rectum	Male	14
+206742	H4024	nonIBD	Rectum	Male	11
+219656	P6017	nonIBD	Rectum	Male	11
+206719	H4013	nonIBD	Rectum	Male	8
+219651	P6014	nonIBD	Rectum	Male	15
+219668	P6024	CD	Rectum	Male	16

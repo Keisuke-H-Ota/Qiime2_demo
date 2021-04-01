@@ -1,0 +1,17 @@
+sample-id,absolute-filepath,direction
+206695,$PWD/data/206695/HMP.2.206695.1.fq,forward
+206695,$PWD/data/206695/HMP.2.206695.2.fq,reverse
+206700,$PWD/data/206700/HMP.2.206700.1.fq,forward
+206700,$PWD/data/206700/HMP.2.206700.2.fq,reverse
+206701,$PWD/data/206701/HMP.2.206701.1.fq,forward
+206701,$PWD/data/206701/HMP.2.206701.2.fq,reverse
+206719,$PWD/data/206719/HMP.2.206719.1.fq,forward
+206719,$PWD/data/206719/HMP.2.206719.2.fq,reverse
+206742,$PWD/data/206742/HMP.2.206742.1.fq,forward
+206742,$PWD/data/206742/HMP.2.206742.2.fq,reverse
+219651,$PWD/data/219651/HMP.2.219651.1.fq,forward
+219651,$PWD/data/219651/HMP.2.219651.2.fq,reverse
+219656,$PWD/data/219656/HMP.2.219656.1.fq,forward
+219656,$PWD/data/219656/HMP.2.219656.2.fq,reverse
+219668,$PWD/data/219668/HMP.2.219668.1.fq,forward
+219668,$PWD/data/219668/HMP.2.219668.2.fq,reverse
